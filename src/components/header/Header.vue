@@ -29,6 +29,7 @@ defineProps({
   top: 0;
   right: 0;
   left: 0;
+  z-index: 1;
 
   height: 100px;
   background: var(--color-background-soft);
